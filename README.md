@@ -1,4 +1,4 @@
-## 部署完成实例
+## 免服务器【worker版本】直播订阅
 ![图片1](https://raw.githubusercontent.com/5d5d5f5f5f/10102/main/10.jpg)
 ![图片2](https://raw.githubusercontent.com/5d5d5f5f5f/10102/main/11.jpg)
 ![图片3](https://raw.githubusercontent.com/5d5d5f5f5f/10102/main/12.jpg)
